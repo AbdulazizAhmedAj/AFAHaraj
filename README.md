@@ -57,9 +57,9 @@ By achieving these goals, AFAHaraj facilitates easy product management, making i
 # Resources
 https://www.youtube.com/watch?v=0nWiSDc64ms&list=PLXgJ7cArk9uR_xxd3iZIwTg0mKUDYsxoi
 # Members
-**Abdulaziz Ahmed Aljanobi**
-**Faisal Salem Alqahtani**
-**Abdullah Faisal Alqahtani**
+-**Abdulaziz Ahmed Aljanobi**
+-**Faisal Salem Alqahtani**
+-**Abdullah Faisal Alqahtani**
 
 
 
