@@ -56,10 +56,9 @@ By achieving these goals, AFAHaraj facilitates easy product management, making i
 ![image](https://github.com/AbdulazizAhmedAj/AFAHaraj/assets/96697853/2bef9bf7-46ad-4ef4-a3f6-568c3fcfab75)
 # Resources
 https://www.youtube.com/watch?v=0nWiSDc64ms&list=PLXgJ7cArk9uR_xxd3iZIwTg0mKUDYsxoi
-# Members
-1.**Abdulaziz Ahmed Aljanobi**
-2.**Faisal Salem Alqahtani**
-3.**Abdullah Faisal Alqahtani**
+# Group Members
 
-
+1. **Abdulaziz Ahmed Aljanobi**
+2. **Faisal Salem Alqahtani**
+3. **Abdullah Faisal Alqahtani**
 
