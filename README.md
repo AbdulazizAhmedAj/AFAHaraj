@@ -42,21 +42,21 @@ By achieving these goals, AFAHaraj facilitates easy product management, making i
 ## Screenshots
 # Homepage
 ![image](https://github.com/AbdulazizAhmedAj/AFAHaraj/assets/96697853/1f45aa75-3911-4983-84fa-887e52a99e20)
-#Sign up
+# Sign up
 ![image](https://github.com/AbdulazizAhmedAj/AFAHaraj/assets/96697853/3623ccc8-0fb8-4c7a-b9e4-b52143decdc9)
-#Log in
+# Log in
 ![image](https://github.com/AbdulazizAhmedAj/AFAHaraj/assets/96697853/beea1549-5154-468b-ad62-3a5431ff00b2)
-#ViewProduct
+# ViewProduct
 ![image](https://github.com/AbdulazizAhmedAj/AFAHaraj/assets/96697853/8f5c3de7-0717-44ba-b801-473a3056a25b)
 #ADDProduct
 ![image](https://github.com/AbdulazizAhmedAj/AFAHaraj/assets/96697853/52a6ff6e-a9fd-415a-bcf9-8db3bbff11b5)
-#EditProduct
+# EditProduct
 ![image](https://github.com/AbdulazizAhmedAj/AFAHaraj/assets/96697853/8f80ede4-5b01-4f2c-9b5c-be27e997a162)
 # DeleteProduct
 ![image](https://github.com/AbdulazizAhmedAj/AFAHaraj/assets/96697853/2bef9bf7-46ad-4ef4-a3f6-568c3fcfab75)
 # Resources
 https://www.youtube.com/watch?v=0nWiSDc64ms&list=PLXgJ7cArk9uR_xxd3iZIwTg0mKUDYsxoi
-#Members
+# Members
 Abdulaziz Ahmed Aljanobi
 Faisal Salem Alqahtani
 Abdullah Faisal Alqahtani
