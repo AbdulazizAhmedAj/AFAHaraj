@@ -48,7 +48,7 @@ By achieving these goals, AFAHaraj facilitates easy product management, making i
 ![image](https://github.com/AbdulazizAhmedAj/AFAHaraj/assets/96697853/beea1549-5154-468b-ad62-3a5431ff00b2)
 # ViewProduct
 ![image](https://github.com/AbdulazizAhmedAj/AFAHaraj/assets/96697853/8f5c3de7-0717-44ba-b801-473a3056a25b)
-#ADDProduct
+# ADDProduct
 ![image](https://github.com/AbdulazizAhmedAj/AFAHaraj/assets/96697853/52a6ff6e-a9fd-415a-bcf9-8db3bbff11b5)
 # EditProduct
 ![image](https://github.com/AbdulazizAhmedAj/AFAHaraj/assets/96697853/8f80ede4-5b01-4f2c-9b5c-be27e997a162)
@@ -57,9 +57,9 @@ By achieving these goals, AFAHaraj facilitates easy product management, making i
 # Resources
 https://www.youtube.com/watch?v=0nWiSDc64ms&list=PLXgJ7cArk9uR_xxd3iZIwTg0mKUDYsxoi
 # Members
--**Abdulaziz Ahmed Aljanobi**
--**Faisal Salem Alqahtani**
--**Abdullah Faisal Alqahtani**
+1.**Abdulaziz Ahmed Aljanobi**
+2.**Faisal Salem Alqahtani**
+3.**Abdullah Faisal Alqahtani**
 
 
 
