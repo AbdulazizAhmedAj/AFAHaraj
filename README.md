@@ -11,8 +11,9 @@ Once you have cloned or downloaded this repository, ensure you have MongoDB inst
     ```
 2.Install bcrypt:
   ```bash
-  npm install bcrypt
+     npm install bcrypt
     ```
+
 3. Start the server:
 
     ```bash
