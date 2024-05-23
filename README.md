@@ -44,7 +44,7 @@ By achieving these goals, AFAHaraj facilitates easy product management, making i
 # Homepage
 ![image](https://github.com/AbdulazizAhmedAj/AFAHaraj/assets/96697853/1f45aa75-3911-4983-84fa-887e52a99e20)
 #Sign up
-![image](https://github.com/AbdulazizAhmedAj/AFAHaraj/assets/96697853/3623ccc8-0fb8-4c7a-b9e4-b52143decdc9)
+[image](https://github.com/AbdulazizAhmedAj/AFAHaraj/assets/96697853/3623ccc8-0fb8-4c7a-b9e4-b52143decdc9)
 #Log in
 ![image](https://github.com/AbdulazizAhmedAj/AFAHaraj/assets/96697853/beea1549-5154-468b-ad62-3a5431ff00b2)
 #ViewProduct
