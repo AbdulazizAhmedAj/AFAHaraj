@@ -7,14 +7,14 @@ AFAHaraj is a web application for adding, editing, viewing, and managing product
 Once you have cloned or downloaded this repository, ensure you have MongoDB installed. Then follow these steps to get the project running:
 1. Install the required npm packages:
    ```bash
-npm install
+   npm install
     ```
 2.Install bcrypt:
   ```bash
-npm install bcrypt
+   npm install bcrypt
 ```
 3. Start the server:
     ```bash
-npm start
+   npm start
 ```
 
