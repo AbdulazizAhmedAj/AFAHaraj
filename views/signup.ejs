@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AFAHaraj</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav class="navbar d-flex flex-row px-5 justify-content-between  navbar-expand-lg navbar-dark bg-light">
+            <div class="">
+                <a class="navbar-brand text-dark"  href="/">AFAHaraj</a>
+            </div>
+            <div class="d-flex flex-row  text-dark" style="gap: 1rem;">
+                <a class="text-dark" href="/">Home</a>
+              
+                    <a class="text-dark" href="/login">Login</a>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container my-5" style="min-height:65vh;">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="">
+                  
+                    <div class="card-body">
+                        <form action="/signup" method="POST">
+                            <div class="form-group">
+                                <label for="fullname">Full Name</label>
+                                <input type="text" class="form-control" placeholder="Full Name" id="fullname" name="fullname" >
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Email address</label>
+                                <input type="email" class="form-control" placeholder="Email " id="email" name="email" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="password">Password</label>
+                                <input type="password" class="form-control" placeholder="Password" id="password" name="password" required>
+                            </div>
+                            <% if(error) { %>
+                                <p class="text-danger mt-2"><%= error %></p>
+                            <% } %>
+                            <button type="submit" class="btn form-control btn-primary">Signup</button>
+                        </form>
+                        <p class="text-muted mt-4">Already having an account  ? <a href="/login" class="text-dark">Login</a></p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer mt-auto py-3  bg-light">
+        <div class="container text-center">
+            <span class="text-muted ">AFAHaraj &copy; 2024</span>
+        </div>
+    </footer>
+
+</body>
+</html>

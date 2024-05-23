@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Product</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav class="navbar d-flex flex-row px-5 justify-content-between  navbar-expand-lg navbar-dark bg-light">
+            <div class="">
+                <a class="navbar-brand text-dark"  href="/">AFAHaraj</a>
+            </div>
+            <div class="d-flex flex-row  text-dark" style="gap: 1rem;">
+                <a class="text-dark" href="/">Home</a>
+                <a class="text-dark" href="/signout">Signout</a>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container my-5" style="min-height:65vh;">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="">
+                    <div class="card-body">
+                        <form action="/products/upload" method="POST" enctype="multipart/form-data">
+                            <div class="form-group">
+                                <label for="title">Title</label>
+                                <input type="text" class="form-control" id="title" name="title" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="description">Description</label>
+                                <textarea class="form-control" id="description" name="description" rows="3" required></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="price">Price</label>
+                                <input type="number" class="form-control" id="price" name="price" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="image">Image</label>
+                                <input type="file" class="form-control-file" id="image" name="image" required>
+                            </div>
+                            <% if(error) { %>
+                                <p class="text-danger mt-2"><%= error %></p>
+                            <% } %>
+                            <button type="submit" class="btn form-control btn-primary">Upload</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer mt-auto py-3  bg-light">
+        <div class="container text-center">
+            <span class="text-muted ">AFAHaraj &copy; 2024</span>
+        </div>
+    </footer>
+
+</body>
+</html>
