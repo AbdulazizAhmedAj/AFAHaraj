@@ -39,6 +39,12 @@ The goal of the AFAHaraj project is to provide a platform where users can manage
 - **Delete Products**: Users can remove products that are no longer available or needed.
 
 By achieving these goals, AFAHaraj facilitates easy product management, making it suitable
+
+## Future Work
+-  Improving the interface of the website.
+-  Making a phone Application for our website
+-  If a user adds a product , no other users can edit or delete it .
+
 ## Screenshots
 ### Homepage
 ![image](https://github.com/AbdulazizAhmedAj/AFAHaraj/assets/96697853/1f45aa75-3911-4983-84fa-887e52a99e20)
